@@ -1,4 +1,4 @@
-# ZalpaOS
+<h1 align="center">ZalpaOS</h1>
 
 <p align="center">
   <img src="https://github.com/rsdenck/ZalpaOS/blob/main/icon/ZalpOS.png" alt="ZalpaOS" />
