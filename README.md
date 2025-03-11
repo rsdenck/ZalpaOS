@@ -1,6 +1,6 @@
 # ZalpaOS
 
-![ZalpaOS](https://github.com/rsdenck/ZalpaOS/blob/main/icon/repo_alpine_linux.png)
+![ZalpaOS](https://github.com/rsdenck/ZalpaOS/blob/main/icon/ZalpOS.png)
 
 **ZalpaOS** é um sistema operacional baseado no **Alpine Linux**, otimizado para ser um **Appliance do Zabbix Proxy 7.0** com foco em segurança, performance e simplicidade. Este projeto oferece uma ISO minimalista com Zabbix Proxy pronto para ser utilizado em ambientes de monitoramento de infraestruturas, combinando leveza e criptografia de ponta.
 
